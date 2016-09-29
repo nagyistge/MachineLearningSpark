@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MachineLearningFeature/.idea/MachineLearningFeature.iml" filepath="$PROJECT_DIR$/../MachineLearningFeature/.idea/MachineLearningFeature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MachineLearningSpark.iml" filepath="$PROJECT_DIR$/.idea/MachineLearningSpark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MachineLearninginAction/.idea/MachineLearninginAction.iml" filepath="$PROJECT_DIR$/../MachineLearninginAction/.idea/MachineLearninginAction.iml" />
+    </modules>
+  </component>
+</project>
